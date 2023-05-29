@@ -1,5 +1,5 @@
 # Stake-Token
-Smart Contract
+Smart Contract - 0xe3882D7Eb223a8a6c02d9d25C7a0d5839b5844A7
 <ul>
   <li>All the ERC20 functions are implemented</li>
   <li><b>unstake</b> function -  allows users to unstake their tokens and claim their reward. It calculates the reward based on the staked amount and duration. The total amount (staked tokens + reward) is transferred back to the user, and the staking data is reset. </li>
